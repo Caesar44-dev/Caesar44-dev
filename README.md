@@ -24,3 +24,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white)
 
 <br>
+
+### DB
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
