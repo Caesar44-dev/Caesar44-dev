@@ -43,6 +43,6 @@
 [![NGINX](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)](#)
 
-### Contacto
+### Contactame
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Caesar_ll)
