@@ -1,5 +1,4 @@
 <h1 align="center">Caesar44-dev, Desarrollador Web</h1>
-<br>
 
 ### </>
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
