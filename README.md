@@ -21,7 +21,7 @@
 ![Graphql WS](https://img.shields.io/badge/graphql--ws-000000?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-000000?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logoColor=white)
 
 <br>
 
