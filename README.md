@@ -44,5 +44,5 @@
 [![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)](#)
 
 ### Contactame
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Caesar_ll)
