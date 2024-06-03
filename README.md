@@ -4,7 +4,9 @@
 
 <h3>Conocimientos</h3>
 <ul>
-    <li>[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](#) Node.js</li>
+    <li>
+        [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](#) Node.js
+    </li>
     <li>[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#) TypeScript</li>
     <li>[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](#) JavaScript</li>
     <li>[![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)](#) PHP</li>
