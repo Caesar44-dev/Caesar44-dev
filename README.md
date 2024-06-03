@@ -1,6 +1,2 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caesar44-dev&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caesar44-dev&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caesar44-dev&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caesar44-dev&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caesar44-dev&theme=dark&utcOffset=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesar44-dev&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caesar44-dev&layout=compact)
