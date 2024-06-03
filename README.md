@@ -1,9 +1,8 @@
 <h1 align="center">Caesar44-dev, Desarrollador Web</h1>
 
 <br><br/>
-<br><br/>
 
-<h2 align="center">Conocimientos Front-End</h2>
+<h2 align="center">Front-End</h2>
 
 <br><br/>
 
@@ -16,7 +15,9 @@
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 
-<h2 align="center">Conocimientos Back-End</h2>
+<br><br/>
+
+<h2 align="center">Back-End</h2>
 
 <br><br/>
 
