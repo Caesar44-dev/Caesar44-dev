@@ -1,6 +1,11 @@
 <h1 align="center">Caesar44-dev, Desarrollador Web</h1>
 
+<br><br/>
+<br><br/>
+
 <h2 align="center">Conocimientos Front-End</h2>
+
+<br><br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -12,6 +17,8 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 
 <h2 align="center">Conocimientos Back-End</h2>
+
+<br><br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
