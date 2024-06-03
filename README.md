@@ -1,6 +1,6 @@
 <h1 align="center">Caesar44-dev, Desarrollador Web</h1>
 
-### 👨🏻‍💻 &nbsp;Front-End
+### Front-End
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-### 👨🏻‍💻 &nbsp;Back-End
+### Back-End
 
 <br>
 
