@@ -29,6 +29,7 @@
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)](#)
 
 ### Otros
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](#)
@@ -41,8 +42,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)](#)
 [![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)](#)
 [![NGINX](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=white)](#)
-[![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)](#)
 
-### Contactame
+### COntacto
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Caesar_ll)
