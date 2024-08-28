@@ -31,4 +31,4 @@
 
 ### Contacto
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge)](https://caesar44-dev-portfolio.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Caesar_ll)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/caesar44_dev)
