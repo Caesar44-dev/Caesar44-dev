@@ -1,6 +1,6 @@
 <h1 align="center">Software Engineer - Architect</h1>
 
-### Lenguajes
+### </>
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](#)
 
@@ -29,19 +29,19 @@
 
 ---
 
-### Bases de Datos
+### DB
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)](#)
 
 ---
 
-### Herramientas y Entorno
+### Tools
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 
 ---
 
-### Contacto
+### Contacts
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge)](https://caesar44-dev-portfolio.vercel.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/caesar44_dev)
