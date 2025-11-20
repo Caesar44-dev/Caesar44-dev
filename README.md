@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer - Architect</h1>
+<h1 align="center">Web developer - junior - beginner</h1>
 
 ### </>
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
